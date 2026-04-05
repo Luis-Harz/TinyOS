@@ -1,4 +1,5 @@
 # TinyOS
+This is the old Repo and is archived. Pleas go <a href="https://github.com/Luis-Harz/AtomOS">here</a> <br>
 A OS written by me in C.
 It's really lightweight.
 ## Why?
